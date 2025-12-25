@@ -1,4 +1,4 @@
-package DIP.AVANT.APRES;
+package DIP.APRES;
 
 public interface Database {
     void save(String data);
